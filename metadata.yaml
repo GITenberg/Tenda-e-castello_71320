@@ -1,0 +1,29 @@
+_repo: Tenda-e-castello_71320
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sacchetti, Roberto
+    birthdate: 1847
+    deathdate: 1881
+    gutenberg_agent_id: '55998'
+    url: http://www.gutenberg.org/2009/agents/55998
+    wikipedia: https://it.wikipedia.org/wiki/Roberto_Sacchetti
+description: ''
+gutenberg_issued: '2023-08-02'
+identifiers:
+  gutenberg: '71320'
+language: it
+pgterms:marc905: 20220925112545sacchetti
+pgterms:marc906: '1878'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aItaly :$bBrigola, $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tenda e castello
+url: http://www.gutenberg.org/ebooks/71320
