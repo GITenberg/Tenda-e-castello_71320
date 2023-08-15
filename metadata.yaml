@@ -1,5 +1,8 @@
 _repo: Tenda-e-castello_71320
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71320-h/images/cover.jpg
 creator:
   author:
     agent_name: Sacchetti, Roberto
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55998
     wikipedia: https://it.wikipedia.org/wiki/Roberto_Sacchetti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71320#Tenda-e-castello
 gutenberg_issued: '2023-08-02'
 identifiers:
   gutenberg: '71320'
